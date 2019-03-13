@@ -1,0 +1,88 @@
+/* Start default theme*/
+.declaration span{
+  color: orange;
+}
+.option-box .color-option{
+  border: 4px solid orange;
+}
+.option-box .gear-check{
+  background: orange;
+}
+.navbar-inverse .navbar-nav > .active >
+a, .navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus
+{
+  background-color: orange;
+}
+.navbar-inverse .navbar-brand span{
+  color: orange;
+}
+.dropdown-menu{
+  border-top: 3px solid orange;
+}
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus
+{
+  background-color: orange;
+}
+.about h1 span
+  {
+    color: orange;
+  }
+.feat .pp{
+  color: orange;
+}
+.testimonials .travail{
+  color: orange;
+}
+.statistics p{
+  color: orange;
+}
+.footer{
+  border-top: 6px dashed orange;
+}
+.footer h3{
+  color: orange;
+}
+.footer .copyright span{
+  color: orange;
+}
+.testimonials span{
+  color: orange;
+}
+.our-clients h3{
+  color: orange;
+}
+
+
+.price-table .price-box:hover p{
+   border: 1px solid orange;
+}
+.our-skills h3{
+  color: orange;
+}
+.our-team .team img{
+  border: 2px solid orange;
+}
+.majournee h2{
+  color: orange;
+}
+
+.contact-us .fields h6{
+  text-shadow: 2px 2px orange;
+}
+.testimonials h2{
+text-shadow: 0px 1px orange;
+}
+.price-table h2{
+text-shadow: 0px 1px orange;
+}
+.our-skills h2{
+text-shadow: 0px 1px orange;
+}
+.statistics h2{
+text-shadow: 0px 1px orange;
+}
+#scroll-top i{
+color: orange;
+}

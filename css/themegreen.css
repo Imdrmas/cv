@@ -1,0 +1,87 @@
+/* Start default theme*/
+.declaration span{
+  color: #5cb85c;
+}
+.option-box .color-option{
+  border: 4px solid #5cb85c;
+}
+.option-box .gear-check{
+  background: #5cb85c;
+}
+.navbar-inverse .navbar-nav > .active >
+a, .navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus
+{
+  background-color: #5cb85c;
+}
+.navbar-inverse .navbar-brand span{
+  color:#5cb85c;
+}
+.dropdown-menu{
+  border-top: 3px solid #5cb85c;
+}
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus
+{
+  background-color: #5cb85c;
+}
+.about h1 span
+  {
+    color:#5cb85c;
+  }
+.feat .pp{
+  color:#5cb85c;
+}
+.testimonials .travail{
+  color:#5cb85c;
+}
+.statistics p{
+  color: #5cb85c;
+}
+.footer{
+  border-top: 6px dashed #5cb85c;
+}
+.footer h3{
+  color: #5cb85c;
+}
+.footer .copyright span{
+  color: #5cb85c;
+}
+.testimonials span{
+  color: #5cb85c;
+}
+.our-clients h3{
+  color: #5cb85c;
+}
+
+.price-table .price-box:hover p{
+   border: 1px solid #E41B17;
+}
+.our-skills h3{
+  color: #5cb85c;
+}
+.our-team .team img{
+  border: 2px solid #5cb85c;
+}
+.majournee h2{
+  color: #5cb85c;
+}
+
+.contact-us .fields h6{
+  text-shadow: 2px 2px #5cb85c;
+}
+.testimonials h2{
+text-shadow: 0px 1px #5cb85c;
+}
+.price-table h2{
+text-shadow: 0px 1px #5cb85c;
+}
+.our-skills h2{
+text-shadow: 0px 1px #5cb85c;
+}
+.statistics h2{
+text-shadow: 0px 1px #5cb85c;
+}
+#scroll-top i{
+color: #5cb85c;
+}
